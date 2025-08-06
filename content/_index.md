@@ -52,8 +52,6 @@ skills:
   - category: "Tools"
     items: ["Git", "VS Code", "Jira", "Figma", "Postman"]
 
-# Remaining sections are optional.
-
 certifications:
   - name: "AWS Certified Solutions Architect - Professional"
     issuer: "Amazon Web Services"
@@ -71,41 +69,6 @@ projects:
   - title: "Task Management App"
     description: "Created a collaborative task management application using Vue.js and Firebase. Features include real-time updates, role-based access control, and analytics dashboard."
 
-# awards:
-#   - title: "Employee of the Year"
-#     issuer: "Tech Solutions Inc."
-#     year: "2021"
-#   - title: "Innovation Award"
-#     issuer: "Digital Innovations LLC"
-#     year: "2019"
-
-# publications:
-#   - title: "Optimizing React Performance"
-#     publication: "Journal of Web Development"
-#     date: "March 2022"
-#   - title: "Microservices Architecture Patterns"
-#     publication: "Software Engineering Quarterly"
-#     date: "October 2020"
-
-# hobbies:
-#   - "Open Source"
-#   - "Photography"
-#   - "Hiking"
-#   - "Chess"
-#   - "Travel"
-
-# references:
-#   - name: "Jane Smith"
-#     position: "CTO, Tech Solutions Inc."
-#     email: "jane.smith@techsolutions.com"
-#     phone: "(123) 456-7891"
-#   - name: "Michael Johnson"
-#     position: "Engineering Manager, Digital Innovations LLC"
-#     email: "michael.johnson@digitalinnovations.com"
-#     phone: "(123) 456-7892"
-
-# in content/_index.md front matter
-
 metrics:
   - label: "Performance Improvement"
     value: "40%"
@@ -115,17 +78,6 @@ metrics:
     value: "65%"
   - label: "Deployment Speedup"
     value: "60%"
-
-# courses:
-#   - title: "Advanced React Patterns"
-#     provider: "Frontend Masters"
-#     duration: "4h 30m"
-#   - title: "AWS Solutions Architect"
-#     provider: "Udemy"
-#     duration: "12h"
-#   - title: "Kubernetes Deep Dive"
-#     provider: "Pluralsight"
-#     duration: "8h"
 
 languages_spoken:
   - language: "English"
@@ -147,5 +99,4 @@ blog:
   - title: "Building CI/CD Pipelines with GitHub Actions"
     url: "https://example.com/ci-cd-github-actions"
     date: "July 5, 2021"
-
 ---
