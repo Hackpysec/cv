@@ -11,9 +11,9 @@ github: "https://github.com/johndoe"
 summary: "Results-driven Senior Software Engineer with 8+ years of experience in full-stack development. Specialized in JavaScript frameworks (React, Node.js) and cloud technologies (AWS). Proven track record of delivering scalable solutions that improve performance and user experience. Passionate about clean code, mentorship, and continuous learning."
 
 experience:
-  - title: "Senior Software Engineer"
-    company: "Tech Solutions Inc."
-    location: "San Francisco, CA"
+  - title: "Information Security Analyst Intern"
+    company: "Banco Ademi"
+    location: "Santo Domingo"
     period: "Jan 2020 - Present"
     items:
       - "Led a team of 5 developers to rebuild the company's flagship product using React and Node.js, resulting in a 40% performance improvement"
