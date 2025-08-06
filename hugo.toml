@@ -1,7 +1,6 @@
 baseURL      = "https://hackpysec.github.io/cv"
 languageCode = "en-us"
 title        = "John Doe - CV"
-theme        = "NightFolio"
 minVersion   = "0.115.0"
 
 [params]
