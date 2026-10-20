@@ -1,8 +1,8 @@
 ---
 title: "David Guzmán - Tecnólogo en Seguridad Informática"
-name: "John Doe"
+name: "David Guzmán"
 position: "Senior Software Engineer"
-location: "San Francisco, CA"
+location: "Santo Domingo, Rep. Dom."
 phone: "(123) 456-7890"
 email: "john.doe@example.com"
 linkedin: "https://linkedin.com/in/johndoe"
