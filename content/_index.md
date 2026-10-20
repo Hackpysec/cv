@@ -31,7 +31,7 @@ experience:
       - "Introduced unit testing practices increasing code coverage from 20% to 85%"
       
 education:
-  - degree: "Master of Science in Computer Science"
+  - degree: "Tecnólogo en Seguridad Informática"
     institution: "Stanford University"
     period: "2015 - 2017"
   - degree: "Bachelor of Science in Software Engineering"
