@@ -1,5 +1,5 @@
 ---
-title: "John Doe - Senior Software Engineer"
+title: "David Guzmán - Tecnólogo en Seguridad Informática"
 name: "John Doe"
 position: "Senior Software Engineer"
 location: "San Francisco, CA"
